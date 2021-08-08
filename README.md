@@ -1,6 +1,11 @@
-# Basic javascript app built with React Js framework.
+# Pokedex matching game.
+
+## Basic javascript app built with React Js framework.
 
 ## Preview: 
+
+
+![grab-landing-page](https://github.com/mghaithm/pokemon/blob/master/preview.PNG?raw=true)
 
 
 ## To run the project:
