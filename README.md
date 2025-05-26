@@ -6,6 +6,19 @@ A fun and interactive Pokémon-themed matching game built with **React**! Test y
 
 ---
 
+## 🌈 Preview
+
+![grab-landing-page](https://github.com/mghaithm/pokemon/blob/master/preview.PNG?raw=true)
+
+---
+
+## 📚 What I Learned
+- 🎓 Deepened understanding of React hooks like `useState` and `useEffect`.
+- 💡 Improved handling of asynchronous data fetching with APIs.
+- 🖼️ Learned to manage responsive layouts and CSS animations.
+- 🏗️ Built a scalable, component-based architecture.
+
+
 ## 🌟 Features
 - 🔥 Interactive card matching gameplay.
 - 🎨 Responsive design for desktop and mobile.
@@ -48,16 +61,3 @@ npm start
 npm run build
 ```
 
----
-
-## 🌈 Preview
-
-![grab-landing-page](https://github.com/mghaithm/pokemon/blob/master/preview.PNG?raw=true)
-
----
-
-## 📚 What I Learned
-- 🎓 Deepened understanding of React hooks like `useState` and `useEffect`.
-- 💡 Improved handling of asynchronous data fetching with APIs.
-- 🖼️ Learned to manage responsive layouts and CSS animations.
-- 🏗️ Built a scalable, component-based architecture.
